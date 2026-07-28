@@ -20,7 +20,7 @@
 - [ADR-0001: заказ-наряд как центр системы](decisions/ADR-0001-service-order-as-core.md)
 - [ADR-0002: интерфейсы по роли](decisions/ADR-0002-role-specific-workspaces.md)
 - [ADR-0003: технические проверки и минимальные задачи](decisions/ADR-0003-technical-reviews-and-tasks.md)
-- [ADR-0004: автоматическая отправка после проверки и временное замещение](decisions/ADR-0004-automatic-publication-and-delegation.md)
+- [ADR-0004: автоматическая отправка после проверки и клиентский доступ](decisions/ADR-0004-automatic-publication-and-client-access.md)
 
 ## Testing
 
