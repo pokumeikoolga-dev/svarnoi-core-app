@@ -16,6 +16,7 @@
 - [Решения собственника по ролям и автоматизации на 28.07.2026](research/owner-decisions-2026-07-28.md)
 - [Разбор текущих Google-таблиц на 03.08.2026](research/google-sheets-review-2026-08-03.md)
 - [Разбор оценки работ и клиентской переписки на 03.08.2026](research/estimate-and-client-chat-review-2026-08-03.md)
+- [Разбор шаблона заказ-заявки на 05.09.2026](research/order-application-template-review-2026-09-05.md)
 
 ## Decisions
 
