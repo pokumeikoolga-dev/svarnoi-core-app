@@ -2,17 +2,28 @@
 
 ## Product
 
-- [Scope первого этапа](product/product-scope.md)
+- [Scope этапов 1А и 1Б](product/product-scope.md)
 - [Поэтапный план](product/phased-roadmap.md)
+- [Рабочие интерфейсы и пути пользователей](product/role-workspaces-and-journeys.md)
+- [Функциональные требования по пяти ролям — версия 1](product/role-functional-requirements-v1.md)
 - [Открытые вопросы](product/open-questions.md)
 
 ## Research
 
 - [Текущий процесс на 14.07.2026](research/current-process-2026-07-14.md)
+- [Полный текущий процесс на 26.07.2026](research/current-process-full-2026-07-26.md)
+- [Исходные требования пяти сотрудников на 28.07.2026](research/role-inputs-2026-07-28.md)
+- [Решения собственника по ролям и автоматизации на 28.07.2026](research/owner-decisions-2026-07-28.md)
+- [Разбор текущих Google-таблиц на 03.08.2026](research/google-sheets-review-2026-08-03.md)
+- [Разбор оценки работ и клиентской переписки на 03.08.2026](research/estimate-and-client-chat-review-2026-08-03.md)
+- [Разбор шаблона заказ-заявки на 05.09.2026](research/order-application-template-review-2026-09-05.md)
 
 ## Decisions
 
 - [ADR-0001: заказ-наряд как центр системы](decisions/ADR-0001-service-order-as-core.md)
+- [ADR-0002: интерфейсы по роли](decisions/ADR-0002-role-specific-workspaces.md)
+- [ADR-0003: технические проверки и минимальные задачи](decisions/ADR-0003-technical-reviews-and-tasks.md)
+- [ADR-0004: автоматическая отправка после проверки и клиентский доступ](decisions/ADR-0004-automatic-publication-and-client-access.md)
 
 ## Testing
 
